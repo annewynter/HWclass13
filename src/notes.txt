@@ -29,3 +29,35 @@ we can have static methods as well but static methods cannot access instance
 variables while not static methods can access static as well as not
 static or instance variables.
 
+Java class17
++++++++++++++++++
+
+Access modification is done in Java with the help of three keywords
+1) private
+2) protected
+3) public
+4) default (it's not a keyword, if we do not use any keyword with fields/methods, default access is given to that field/method
+
+***Private****
+ is the most restricted one we can only access private fields or methods if we are inside the
+same class
+
+**DeFault***
+works only and only inside same package. Default access is applicable to that member automatically
+When defaults access is given to something. That member is only accessible within the same class and same package.
+You cannot access it in another package
+
+***public***
+Can be accessed within same class, package, different packages within same Project!This class is the least restricted one.
+
+***Protected Access Modifier****
+if something is protected it's available inside the same class, same package. It's available with the restrictions.
+it's a keyword, and it works differently from other access modifiers.
+if we are using a protected keyword we can access that member inside the same class with or without creating an object.
+Depends on if we are in static method or instance method.
+In order to access protected modifier in different package we need to.
+
+
+
+
+

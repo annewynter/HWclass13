@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProjectFromEclipse/ProjectFromEclipse.iml" filepath="$PROJECT_DIR$/ProjectFromEclipse/ProjectFromEclipse.iml" />
       <module fileurl="file://$PROJECT_DIR$/STDETBatch10.iml" filepath="$PROJECT_DIR$/STDETBatch10.iml" />
     </modules>
   </component>
